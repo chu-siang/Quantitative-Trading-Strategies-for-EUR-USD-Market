@@ -70,7 +70,7 @@ Strategy Logic:
 - Execute a sell if the RSI crosses below the lower bound.
 
 Results:
-- Best Parameters: upper_bound = 70, lower_bound = 30, rsi_window = 130, return = 47, Sharpe Ratio = 0.81
+- Best Parameters: upper_bound = 70, lower_bound = 30, rsi_window = 133, return = 47, Sharpe Ratio = 0.87
 
 Conclusion:
 
